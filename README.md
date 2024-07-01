@@ -4,3 +4,5 @@ Este é um projeto criado com a intenção de expor e resumir os conceitos trata
 <h2>1. Comandos Git</h2>
 <h3>1.1. git clone "url" </h3>
 <h3>1.2. git log </h3>
+<h3>1.3. git pull "url"</h3>
+
